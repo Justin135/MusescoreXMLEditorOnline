@@ -104,19 +104,19 @@
         <height>10</height>
         <Text>
           <style>Title</style>
-          <text>BasicXMLFormat</text>
+          <text></text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <text>Subtitle is this</text>
+          <text></text>
           </Text>
         <Text>
           <style>Composer</style>
-          <text>Justin Bornais</text>
+          <text></text>
           </Text>
         <Text>
           <style>Lyricist</style>
-          <text>This is where the lyricist goes</text>
+          <text></text>
           </Text>
         </VBox>
       <Measure>
